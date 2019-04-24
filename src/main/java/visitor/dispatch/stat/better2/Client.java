@@ -12,7 +12,7 @@ package visitor.dispatch.stat.better2;
 public class Client {
     public static void main(String[] args) {
         Visitor visitor = new VisitorImpl();
-        ComputerPart computer = new Monitor();
+        ComputerPart computer = new Computer();
         computer.accept(visitor);
 
     }
