@@ -8,6 +8,7 @@ import java.util.List;
  *  1.标签审核
  *  2.智能纠错
  *  3.风险审核
+ *  我觉得更好的地方是保存每个组件处理结果
  *
  **/
 public class Client {
