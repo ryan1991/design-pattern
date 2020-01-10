@@ -1,4 +1,4 @@
-package init;
+package initializer;
 
 /**
  * @Author ryan.song
