@@ -1,7 +1,7 @@
 package com.sjbao.design.responsibilitychain;
 
 /**
- * 部门经理审核
+ * 总经理审核
  * @author songjunbao
  * @createdate 2017/9/26
  */
